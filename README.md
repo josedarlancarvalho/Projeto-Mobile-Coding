@@ -1,5 +1,5 @@
 # projeto-mobilecoding
-# Meus FIlmes - React Native
+# Meus Filmes - React Native
 
 Este é um aplicativo React Native que o usuario pode salvar filmes em uma lista para assistir depois.
 
@@ -41,9 +41,9 @@ https://github.com/josedarlancarvalho/Projeto-Mobile-Coding
 ## Estrutura do projeto
 
 - App.js: Ponto de entrada do aplicativo React Native.
-- ProductList.js: Componente principal que exibe a lista de produtos e lida com as operações CRUD.
-- ProductItem.js: Componente que exibe um item individual da lista de produtos.
-- database.js: Arquivo de configuração e conexão com o banco de dados MySQL.
+- Home.js: Componente que exibe a tela principal.
+- Filmes.js: Componente que exibe a opçäo de adicionar os filmes a lista.
+- index.js: Pagina que junta as duas de cima e manda pra App.js.
 
 ## Contribuição
 
